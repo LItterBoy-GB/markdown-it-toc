@@ -11,7 +11,7 @@ var md = require('markdown-it')({
   html: true,
   linkify: true,
   typography: true
-}).use(require('markdown-it-toc')); // <-- this use(package_name) is required
+}).use(require('markdown-it-toc-gb')); // <-- this use(package_name) is required
 ```
 
 #### Example

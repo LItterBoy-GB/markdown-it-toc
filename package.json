@@ -26,7 +26,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "markdown-it-toc",
+  "name": "markdown-it-toc-gb",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LItterBoy-GB/markdown-it-toc"
