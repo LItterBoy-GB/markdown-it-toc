@@ -17,7 +17,7 @@ var md = require('markdown-it')({
 #### Example
 
 ```md
-@[toc](Title)
+[toc]
 ```
 
 Adding this tag with add anchors to each ```<h[n]>``` tag on your document, and will add a ```<ul>``` of hyperlinks pointing to these places on the page.
@@ -26,7 +26,6 @@ The end results looks like:
 
 ```html
 <p>
-     <h3>Title</h3>
      <ul>
 	<li><a href="...">Heading 1</a></li>
 	...
